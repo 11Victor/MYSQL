@@ -26,4 +26,3 @@ delete from funcionarios where id = 4 or id = 5 or id = 6;
 
 select * from funcionarios;
 
-
